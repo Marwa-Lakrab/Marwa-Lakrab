@@ -47,15 +47,20 @@ I'm a passionate and detail-oriented software tester currently pursuing a Master
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarwaLakrab&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarwaLakrab&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MarwaLakrab&theme=tokyonight&row=1&column=7&no-frame=true" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwaLakrab&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarwaLakrab&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarwaLakrab&theme=tokyonight&hide_border=true" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwaLakrab&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MarwaLakrab&theme=tokyonight&hide_border=true" width="95%" />
 </p>
 
 ---
