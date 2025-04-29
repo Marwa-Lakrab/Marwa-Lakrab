@@ -49,7 +49,6 @@ I'm a passionate and detail-oriented software tester currently pursuing a Master
 ## 💼 Career Goals
 
 ✔️ Remote QA Engineer (Manual & Automated)  
-✔️ Freelance or full-time role between **1500–1900 DT / month**  
 ✔️ Build a sustainable **macramé craft business** targeting local and international clients
 
 ---
