@@ -2,9 +2,9 @@
 
 🎯 *Aspiring QA Engineer | Software Tester | Macramé Artist | IT Master's Student*
 
-![Profile Views](https://komarev.com/ghpvc/?username=MarwaLakrab&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/MarwaLakrab?style=social)
-![Stars](https://img.shields.io/github/stars/MarwaLakrab?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=marwalakrab&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/marwalakrab?style=social)
+![Stars](https://img.shields.io/github/stars/marwalakrab?style=social)
 
 ---
 
@@ -46,6 +46,7 @@ I'm a passionate and detail-oriented software tester currently pursuing a Master
 - 🎨 **Macramé Business** – Custom handmade products (side hustle)
 
 ---
+
 ### 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marwalakrab&show_icons=true&theme=dark" alt="GitHub Stats" />
