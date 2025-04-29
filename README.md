@@ -42,6 +42,10 @@ I'm a passionate and detail-oriented software tester currently pursuing a Master
   <img src="https://github-readme-stats.vercel.app/api?username=marwa&theme=radical&show_icons=true&hide_border=true&border_radius=10" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=marwa&theme=radical&hide_border=true&border_radius=10" width="48%" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marwalakrab&theme=radical&show_icons=true&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=marwalakrab&theme=radical&hide_border=true&border_radius=10" width="48%" />
+</p>
 
 ---
 
