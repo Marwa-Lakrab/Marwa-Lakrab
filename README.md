@@ -30,15 +30,6 @@ I'm a passionate and detail-oriented software tester currently pursuing a Master
 
 ---
 
-## 🌱 Currently Learning
-
-![Flutter](https://img.shields.io/badge/Mobile-Flutter-blue?style=flat&logo=flutter)
-![Firebase](https://img.shields.io/badge/Backend-Firebase-yellow?style=flat&logo=firebase)
-![React](https://img.shields.io/badge/Frontend-React-blue?style=flat&logo=react)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?style=flat&logo=mongodb)
-
----
-
 ## ✨ Projects
 
 - 🎯 **Studiffy** – An online learning platform (QA role, Agile process)
