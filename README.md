@@ -2,11 +2,15 @@
 
 🎯 *Aspiring QA Engineer | Software Tester | Macramé Artist | IT Master's Student*
 
+![Profile Views](https://komarev.com/ghpvc/?username=MarwaLakrab&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/MarwaLakrab?style=social)
+![Stars](https://img.shields.io/github/stars/MarwaLakrab?style=social)
+
 ---
 
 ## 👩‍💻 About Me
 
-I'm a passionate and detail-oriented software tester currently pursuing a Master’s degree in IT Management. I enjoy ensuring software quality through manual and automated testing. I’m certified ISTQB and learning more about testing APIs, SQL, and automation using tools like Selenium.
+I'm a passionate and detail-oriented software tester currently pursuing a Master’s degree in IT Management. I enjoy ensuring software quality through manual and automated testing. I’m certified ISTQB and currently learning more about testing APIs, SQL, and automation using tools like Selenium.
 
 🔍 I’m actively looking for remote QA opportunities and freelance testing roles.
 
@@ -16,22 +20,35 @@ I'm a passionate and detail-oriented software tester currently pursuing a Master
 
 ## 🧪 What I Know
 
-- **Manual Testing** (functional, regression, exploratory)
-- **Automation Testing** with Selenium (Java)
-- **Bug Tracking & Test Management**: Jira, TestRail
-- **Databases**: SQL basics
-- **API Testing**: Postman
-- **Agile Methodologies**: Scrum, BDD
-- **Tools**: Git, GitHub, Trello
+![Manual Testing](https://img.shields.io/badge/Testing-Manual-informational?style=flat&logo=testing-library)
+![Selenium](https://img.shields.io/badge/Selenium-Java-yellowgreen?style=flat&logo=selenium)
+![Postman](https://img.shields.io/badge/API%20Testing-Postman-orange?style=flat&logo=postman)
+![Jira](https://img.shields.io/badge/Tracking-Jira-blue?style=flat&logo=jira)
+![SQL](https://img.shields.io/badge/Database-SQL-lightgrey?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/Version%20Control-Git-orange?style=flat&logo=git)
+![Agile](https://img.shields.io/badge/Agile-Scrum-brightgreen?style=flat&logo=agile)
 
 ---
 
 ## 🌱 Currently Learning
 
-- API & SQL Testing
-- Advanced Selenium
-- Firebase & Flutter (for personal mobile app project)
-- Full Stack Development with React.js & MongoDB
+![Flutter](https://img.shields.io/badge/Mobile-Flutter-blue?style=flat&logo=flutter)
+![Firebase](https://img.shields.io/badge/Backend-Firebase-yellow?style=flat&logo=firebase)
+![React](https://img.shields.io/badge/Frontend-React-blue?style=flat&logo=react)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?style=flat&logo=mongodb)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarwaLakrab&show_icons=true&theme=radical&hide=stars&count_private=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarwaLakrab&theme=radical" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwaLakrab&layout=compact&theme=radical" width="47%" />
+</p>
 
 ---
 
@@ -55,7 +72,7 @@ I'm a passionate and detail-oriented software tester currently pursuing a Master
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/marwa-lakrab/)
 - 📧 lakrabmarwa@gmail.com
-- 🧵 [Macramé Instagram (optional)](https://www.instagram.com/your-macrame-page/)
+- 🧵 [Instagram (Macramé)](https://www.instagram.com/your-macrame-page/) *(optional)*
 
 ---
 
@@ -66,4 +83,3 @@ I'm a passionate and detail-oriented software tester currently pursuing a Master
 ---
 
 🔁 *Feel free to check out my repositories and leave feedback!*
-
