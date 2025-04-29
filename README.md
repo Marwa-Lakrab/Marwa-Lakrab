@@ -48,8 +48,8 @@ I'm a passionate and detail-oriented software tester currently pursuing a Master
 ---
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarwaLakrab&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarwaLakrab&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marwalakrab&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marwalakrab&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
