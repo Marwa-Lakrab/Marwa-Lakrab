@@ -53,10 +53,6 @@ I'm a passionate and detail-oriented software tester currently pursuing a Master
   <img src="https://github-readme-streak-stats.herokuapp.com?user=marwa&theme=radical&hide_border=true&border_radius=10" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwa&layout=compact&theme=radical&hide_border=true&border_radius=10" width="48%" />
-</p>
-
 ---
 
 ## 💼 Career Goals
