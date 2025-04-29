@@ -33,7 +33,6 @@ I'm a passionate and detail-oriented software tester currently pursuing a Master
 ## ✨ Projects
 
 - 🎯 **Studiffy** – An online learning platform (QA role, Agile process)
-- 📱 **Car Repair Mobile App** – Flutter + Firebase (in progress)
 - 🎨 **Macramé Business** – Custom handmade products (side hustle)
 
 ---
