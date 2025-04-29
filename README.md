@@ -39,24 +39,24 @@ I'm a passionate and detail-oriented software tester currently pursuing a Master
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarwaLakrab&show_icons=true&theme=radical&hide=stars&count_private=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarwaLakrab&theme=radical" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwaLakrab&layout=compact&theme=radical" width="47%" />
-</p>
-
----
-
 ## ✨ Projects
 
 - 🎯 **Studiffy** – An online learning platform (QA role, Agile process)
 - 📱 **Car Repair Mobile App** – Flutter + Firebase (in progress)
 - 🎨 **Macramé Business** – Custom handmade products (side hustle)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarwaLakrab&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarwaLakrab&theme=tokyonight&hide_border=true" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwaLakrab&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+</p>
 
 ---
 
