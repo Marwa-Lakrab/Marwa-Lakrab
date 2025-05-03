@@ -57,7 +57,7 @@ I'm a passionate and detail-oriented software tester currently pursuing a Master
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/marwa-lakrab/)
 - 📧 lakrabmarwa@gmail.com
-- 🧵 [Instagram (Macramé)]([https://www.instagram.com/your-macrame-page/](https://www.instagram.com/rose_gold.ml)) *(optional)*
+- 🧵 [Instagram (Macramé)](https://www.instagram.com/rose_gold.ml) *(optional)*
 
 ---
 
