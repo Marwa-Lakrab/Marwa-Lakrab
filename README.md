@@ -32,7 +32,7 @@ I'm a passionate and detail-oriented software tester currently pursuing a Master
 
 ## ✨ Projects
 
-- 🎯 **Studiffy** – An online learning platform (QA role, Agile process)
+- 🎯 **Project PFE** – An online learning platform (QA role, Agile process)
 - 🎨 **Macramé Business** – Custom handmade products (side hustle)
 
 ---
