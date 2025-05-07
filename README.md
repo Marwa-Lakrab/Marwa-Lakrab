@@ -48,7 +48,7 @@ I'm a passionate and detail-oriented software tester currently pursuing a Master
 
 ## 💼 Career Goals
 
-✔️ Remote QA Engineer (Manual & Automated)  
+✔️ Remote / on-site in a company QA Engineer (Manual & Automated)  
 ✔️ Build a sustainable **macramé craft business** targeting local and international clients
 
 ---
